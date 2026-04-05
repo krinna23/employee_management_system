@@ -1,0 +1,41 @@
+# Flutter / Dart
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/.pub-cache/
+/.pub/
+/build/
+/coverage/
+
+# OS Specific
+.DS_Store
+.history
+*.log
+
+# IDE Specific
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Mobile Platform Specific
+/android/app/debug
+/android/app/profile
+/android/app/release
+*.apk
+*.aab
+/ios/Flutter/.last_build_id
+/windows/flutter/ephemeral/
+
+# Build Artifacts
+*.exe
+*.dll
+*.pdb
+app.*.symbols
+app.*.map.json
+
+# Project Specific (Temporary)
+.metadata
+web_testing_explanation.txt
