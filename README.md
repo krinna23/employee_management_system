@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Professional Employee Management System (EMS Pro)
 
 A production-grade, state-of-the-art SaaS platform built for modern workforce management. This system provides a seamless experience for both Administrators and Employees with real-time data persistence and a premium user interface.
@@ -75,3 +76,6 @@ flutter run
 - **Colors**: Modern Indigo (`#4F46E5`) and Emerald (`#10B981`) palette.
 - **Responsiveness**: Fully adaptive layouts that work on Web, Tablet, and Desktop.
 - **Security**: Role-based data isolation ensuring employees only see their own records.
+=======
+
+>>>>>>> 7204a9092529c47048e1eb37f1141a809fa84d92
